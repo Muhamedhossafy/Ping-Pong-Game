@@ -1,4 +1,4 @@
-# 🏓 **Ping Pong Game** - Professional Documentation
+# 🏓 **Ping Pong Game** 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Game](https://img.shields.io/badge/Genre-Arcade%20Sports-green)
